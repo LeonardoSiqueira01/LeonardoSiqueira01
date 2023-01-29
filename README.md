@@ -1,4 +1,5 @@
 ### Bem vindo ao meu perfil, eu sou Leonardo Siqueira estudante de programação !
+   Welcome to my profile, I'm Leonardo Siqueira, a programming student!
 
 
 <div align="center">
