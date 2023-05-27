@@ -19,6 +19,6 @@
   <a href = "mailto:leonardo.gabriel01@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=email&logoColor=white"" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-siqueira-2b9636217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=LeonardoSiqueira01)
+
 
 </div>
