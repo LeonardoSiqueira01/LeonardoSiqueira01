@@ -7,10 +7,16 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="Leo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+      <img align="center" alt="Leo-Tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+   <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+   <img align="center" alt="Leo-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leo-pic" height="140" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97681695?s=400&u=91ed24a0fd26e5d3104fad0ece00f0a428f9f342&v=4">
+     <img align="center" alt="Leo-GitHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+     <img align="center" alt="Leo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="right" alt="Leo-pic" height="140" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97681695?s=400&u=91ed24a0fd26e5d3104fad0ece00f0a428f9f342&v=4">
 </div>
   
   ##
