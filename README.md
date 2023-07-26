@@ -1,6 +1,8 @@
 ### Bem vindo ao meu perfil, eu sou Leonardo Siqueira estudante de programação !
-   Welcome to my profile, I'm Leonardo Siqueira, a programming student!
+Welcome to my profile, I'm Leonardo Siqueira, a programming student!
 
+Desenvolvedor Java apaixonado por programação e formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Experiência sólida em Java Orientado a Objetos, JPA, Hibernate, Spring Boot e Maven. Conhecimentos em bancos de dados MySQL e PostgreSQL, além de uso do Postman para testar requisições de Rest API. Meu objetivo é crescer no universo do desenvolvimento Java, buscando oportunidades para aplicar meus conhecimentos e entregar soluções de alto desempenho e qualidade.
+   
 
 <div align="center">
   
