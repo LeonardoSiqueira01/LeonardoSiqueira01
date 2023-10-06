@@ -26,7 +26,9 @@ Desenvolvedor Java apaixonado por programação e formado em Análise e Desenvol
   <a href="https://www.linkedin.com/in/leonardo-siqueira-2b9636217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSiqueira01&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSiqueira01&layout=compact&langs_count=7&theme=dark"/>
+
+<img height = "140em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSiqueira01&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 </div>
