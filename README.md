@@ -1,11 +1,12 @@
 ## Bem vindo ao meu perfil, eu sou Leonardo Siqueira estudante de programação !:coffee: ❤
 
-Desenvolvedor Java apaixonado por programação e formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Experiência sólida em Java Orientado a Objetos, JPA, Hibernate, Spring Boot e Maven. Conhecimentos em bancos de dados MySQL e PostgreSQL, além de uso do Postman para testar requisições de Rest API. Meu objetivo é crescer no universo do desenvolvimento Java, buscando oportunidades para aplicar meus conhecimentos e entregar soluções de alto desempenho e qualidade.
+Desenvolvedor Back-End apaixonado por programação, formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Experiência sólida em C# e Java Orientado a Objetos, JPA, Hibernate, Spring Boot e Maven. Conhecimentos em bancos de dados MySQL e PostgreSQL, além de uso do Postman para testar requisições de Rest API. Meu objetivo é crescer no universo do desenvolvimento Web, buscando oportunidades para aplicar meus conhecimentos e entregar soluções de alto desempenho e qualidade.
    - 👩‍💻 Aprendendo algo sobre Front-end
 <div align="center">
   
 </div>
 <div style="display: inline_block"><br>
+<img align="center" alt="Leo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Leo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
       <img align="center" alt="Leo-Tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
