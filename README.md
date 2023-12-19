@@ -1,7 +1,7 @@
-## Bem vindo ao meu perfil, eu sou Leonardo Siqueira estudante de programação !:coffee: ❤
+## Bem vindo ao meu perfil, eu sou Leonardo Siqueira estudante de programação ! ❤
 
-Desenvolvedor Back-End apaixonado por programação, formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Experiência sólida em C# e Java Orientado a Objetos, JPA, Hibernate, Spring Boot e Maven. Conhecimentos em bancos de dados MySQL e PostgreSQL, além de uso do Postman para testar requisições de Rest API. Meu objetivo é crescer no universo do desenvolvimento Web, buscando oportunidades para aplicar meus conhecimentos e entregar soluções de alto desempenho e qualidade.
-   - 👩‍💻 Aprendendo algo sobre Front-end
+Desenvolvedor Back-End apaixonado por programação, formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Experiência sólida em C# e Java Orientado a Objetos, JPA, Hibernate, Spring Boot e Maven. Conhecimentos em bancos de dados MySQL e PostgreSQL, além de uso do Postman para testar requisições de Rest API. Meu objetivo é crescer no universo do desenvolvimento Web, buscando oportunidades para aplicar meus conhecimentos e entregar soluções de alto desempenho e qualidade. Criação de formulários e layouts de sites utilizando Html e estilizando com CSS.
+   <p> 👩‍💻 Aprendendo Javascript!</p>
 <div align="center">
   
 </div>
@@ -18,7 +18,7 @@ Desenvolvedor Back-End apaixonado por programação, formado em Análise e Desen
     <img align="center" alt="Leo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
      <img align="center" alt="Leo-GitHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
      <img align="center" alt="Leo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="right" alt="Leo-pic" height="220" width="340"    src="Hello_world.gif">
+   <img align="right" alt="Leo-pic" height="220" width="340"    src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" border-radius: 4px>
 </div>
   
   ##
